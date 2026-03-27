@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HlexNC/iTravel">
+  <a href="https://github.com/arudaev/iTravel">
     <img src="https://img.shields.io/badge/GitHub-iTravel-blue?style=flat-square&logo=github" alt="GitHub Repository">
   </a>
   <a href="https://developer.android.com/">
@@ -114,7 +114,7 @@ You'll need an **Android phone** running version 8.0 or newer (most phones from 
 1. Download [Android Studio](https://developer.android.com/studio)
 2. Clone the project:
    ```
-   git clone --recurse-submodules https://github.com/HlexNC/iTravel.git
+   git clone --recurse-submodules https://github.com/arudaev/iTravel.git
    ```
 3. Open it in Android Studio and hit the green **Run** button
 4. That's it — the app launches on your phone or emulator
@@ -164,5 +164,5 @@ Licensed under the **GNU General Public License v3.0** — see [LICENSE](LICENSE
 
 <p align="center">
   <strong>Von Travelern für Traveler</strong><br>
-  <a href="https://github.com/HlexNC/iTravel">GitHub</a> · <a href="docs/">Docs</a> · <a href="https://github.com/HlexNC/iTravel/issues">Report a Bug</a>
+  <a href="https://github.com/arudaev/iTravel">GitHub</a> · <a href="docs/">Docs</a> · <a href="https://github.com/arudaev/iTravel/issues">Report a Bug</a>
 </p>
