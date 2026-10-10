@@ -1,8 +1,8 @@
-<h1 align="center">
-  <img src="app/src/main/res/drawable/app_logo.png" alt="iTravel Logo" width="150"/>
-  <br>
-  iTravel
-</h1>
+<p align="center">
+  <img src=".github/banner.png" alt="iTravel – a hand-drawn banner: a hand holding a phone with a map above a folded paper map with pins" width="100%">
+</p>
+
+<h1 align="center">iTravel</h1>
 
 <p align="center">
   <strong>Discover places, share your adventures, and see the world through fellow travelers' eyes</strong>
@@ -31,12 +31,12 @@
 
 ## What is iTravel?
 
-iTravel is a travel companion app for Android. Browse **60 hand-picked destinations** across 30+ countries on an interactive map, check the weather, scroll through beautiful travel photos, and leave reviews when you actually visit a place — the app uses your phone's GPS to make sure you're really there.
+iTravel is a travel companion app for Android. Browse **60 hand-picked destinations** across 30+ countries on an interactive map, check the weather, scroll through beautiful travel photos, and leave reviews when you actually visit a place – the app uses your phone's GPS to make sure you're really there.
 
 Whether you're planning your next trip or reminiscing about your last one, iTravel puts the world at your fingertips.
 
 > [!NOTE]
-> **This is V2** — a complete MVVM rewrite with a new UI/UX, expanded content, and modern architecture. See [Project History](#project-history) for details.
+> **This is V2** – a complete MVVM rewrite with a new UI/UX, expanded content, and modern architecture. See [Project History](#project-history) for details.
 
 ---
 
@@ -74,10 +74,10 @@ flowchart TD
 Browse all 60 destinations as pins on a **Google Maps** view. Filter by **Restaurants**, **Hotels**, **Attractions**, or **Nature** to find what interests you. Each category has its own Material Design icon for quick recognition.
 
 ### 📸 Travel Feed
-A scrollable feed of gorgeous travel photos from **Unsplash** paired with **live weather data** — great for daydreaming about your next trip. Pull down to refresh for new content.
+A scrollable feed of gorgeous travel photos from **Unsplash** paired with **live weather data** – great for daydreaming about your next trip. Pull down to refresh for new content.
 
 ### ✍️ Reviews & Ratings
-Read what other travelers think, or write your own. Add a star rating (1–5), text (minimum 50 characters), and up to 5 photos. The app checks your GPS to confirm you're within **100 meters** of the location — no fake reviews!
+Read what other travelers think, or write your own. Add a star rating (1–5), text (minimum 50 characters), and up to 5 photos. The app checks your GPS to confirm you're within **100 meters** of the location – no fake reviews!
 
 ### ❤️ Like & Save
 Tap the heart to save your favorite destinations. Your likes are synced to your profile.
@@ -117,7 +117,7 @@ You'll need an **Android phone** running version 8.0 or newer (most phones from 
    git clone --recurse-submodules https://github.com/arudaev/iTravel.git
    ```
 3. Open it in Android Studio and hit the green **Run** button
-4. That's it — the app launches on your phone or emulator
+4. That's it – the app launches on your phone or emulator
 
 > [!IMPORTANT]
 > The map, travel photos, and weather features need free API keys to work. Without them the app still runs, but those sections will show placeholder content. See [docs/API_SETUP.md](docs/API_SETUP.md) for setup details.
@@ -128,7 +128,7 @@ You'll need an **Android phone** running version 8.0 or newer (most phones from 
 
 | Version | What Changed |
 |---------|-------------|
-| **V0** | Original prototype — partially built by @Engineer1080. Kept in `legacy/` for reference. |
+| **V0** | Original prototype – partially built by @Engineer1080. Kept in `legacy/` for reference. |
 | **V1** | First rewrite from scratch. New design, new features, basic architecture. |
 | **V2** | MVVM + Repository rewrite. 60 locations (up from 20), full UI/UX overhaul, Material Design 3, 27 vector icons, animations, GPS-validated reviews, like system, share functionality. **You are here.** |
 
@@ -158,7 +158,7 @@ Detailed documentation lives in the [`docs/`](docs/) folder:
 
 ## License
 
-Licensed under the **GNU General Public License v3.0** — see [LICENSE](LICENSE) for details.
+Licensed under the **GNU General Public License v3.0** – see [LICENSE](LICENSE) for details.
 
 ---
 
